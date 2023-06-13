@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: HubSpot consulting & Marketing operations
+subtitle: Starting at $150/mo
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
+img: hubspot.webp
+thumbnail: hubspot-thumb.png
+alt: hubspot consulting services
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Starting at $150/mo
+category: Marketing operations
+description: With over 8 years of HubSpot experience and hundreds of happy clients, FIG Digital Marketing is a leading agency for all things HubSpot. We help with everything from creating reports and dashboards, to creating lists, email campaigns, workflows and automation, and more to help you get the most you can out of your HubSpot subscription.
 
 ---

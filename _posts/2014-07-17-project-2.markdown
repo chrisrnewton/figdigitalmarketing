@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: SEO
+subtitle: Starting at $49/mo
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+img: seo.jpeg
+thumbnail: seo-thumb.jpeg
+alt: seo consulting services
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Starting at $49/mo
+category: Search engine optimization
+description: If a tree falls in the forest, does it make a sound? If somebody searches for solutions you offer on Google and your website doesn't show up, does your website exist? SEO is an extremely important part of digital marketing and has been proven to have the highest ROI of any other channel. Don't let your competitors have all of your traffic; adopt an SEO strategy today.
 
 ---

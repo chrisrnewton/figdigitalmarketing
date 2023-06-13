@@ -1,15 +1,14 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Social Media Advertising & Display
+subtitle: Starting at $39/mo + spend
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: social.jpeg
+thumbnail: social-thumb.jpeg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+client: Starting at $39/mo + spend
+category: Social Media Marketing
+description: Display advertising, whether it's on social media networks like Facebook, Instagram, TikTok, and LinkedIn is a great way to reach targeted buyers of your products and services. FIG Digital Marketing implements both social media display advertising campaigns, retargeting campaigns, and Google Display network campaigns where you can reach thousands of qualified buyers in a matter of seconds.
 ---

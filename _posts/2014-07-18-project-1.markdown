@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Responsive Websites
+subtitle: Starting as low as $29/mo
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
+alt: responsive website services
 project-date: April 2014
-client: Start Bootstrap
+client: Starting at $29
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Whether you're a new business, an existing business without a website, or a business that simply wants a website refresh, we offer mobile-first websites for as low as $29/mo.
 
 ---

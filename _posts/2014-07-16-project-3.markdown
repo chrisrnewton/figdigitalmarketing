@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: SEM / PPC
+subtitle: Starting at $59/mo + spend
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: sem.jpeg.png
+thumbnail: sem-thumb.jpeg
+alt: sem and ppc consulting services
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Starting at $59/mo + spend
+category: Search engine marketing
+description: Search engine marketing (SEM) is a great complement to an SEO strategy, and a great way to start seeing immediate results. Best of all? You only pay when somebody actually clicks on your ad on Google. Get started with a budget of as little as $100 today.
 
 ---

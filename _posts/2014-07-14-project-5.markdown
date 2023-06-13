@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Email Marketing
+subtitle: Starting at $39/mo
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
+img: email.jpeg
+thumbnail: email-thumb.jpeg
+alt: email marketing services
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Starting at $39/mo
+category: Email marketing
+description: Whether you are brand new to email marketing or looking to level-up your email marketing campaigns, FIG Digital Marketing has experience working in all of the major email marketing platforms. We'll design, test, and implement your campaigns so you can spend more time doing what you do best; running your business.
 
 ---
